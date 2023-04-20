@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reactiv-posts/static/css/main.a74642f9.css",
-    "main.js": "/reactiv-posts/static/js/main.32193fd9.js",
-    "static/media/Fon header.jpg": "/reactiv-posts/static/media/Fon header.9cb21824adbc34bec8d2.jpg",
-    "static/media/source-sans-pro-all-400-normal.woff": "/reactiv-posts/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff",
-    "static/media/source-sans-pro-latin-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2",
-    "static/media/source-sans-pro-latin-ext-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2",
-    "static/media/source-sans-pro-cyrillic-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2",
-    "static/media/source-sans-pro-greek-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2",
-    "static/media/source-sans-pro-greek-ext-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2",
-    "static/media/source-sans-pro-cyrillic-ext-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2",
-    "static/media/source-sans-pro-vietnamese-400-normal.woff2": "/reactiv-posts/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2",
-    "static/media/ic-notfound.svg": "/reactiv-posts/static/media/ic-notfound.d026fd15799f3faa1b0dbc24fd5a8b96.svg",
-    "static/media/like.svg": "/reactiv-posts/static/media/like.ed9b7eeedbdc73a4c0d14fa159779a59.svg",
-    "static/media/ic-close-input.svg": "/reactiv-posts/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
-    "static/media/ic-search.svg": "/reactiv-posts/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
-    "index.html": "/reactiv-posts/index.html",
-    "main.a74642f9.css.map": "/reactiv-posts/static/css/main.a74642f9.css.map",
-    "main.32193fd9.js.map": "/reactiv-posts/static/js/main.32193fd9.js.map"
+    "main.css": "/SberProjRJS/static/css/main.be530bd9.css",
+    "main.js": "/SberProjRJS/static/js/main.e7d433e7.js",
+    "static/media/Fon header.jpg": "/SberProjRJS/static/media/Fon header.9cb21824adbc34bec8d2.jpg",
+    "static/media/source-sans-pro-all-400-normal.woff": "/SberProjRJS/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff",
+    "static/media/source-sans-pro-latin-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2",
+    "static/media/source-sans-pro-latin-ext-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2",
+    "static/media/source-sans-pro-cyrillic-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2",
+    "static/media/source-sans-pro-greek-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2",
+    "static/media/source-sans-pro-greek-ext-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2",
+    "static/media/source-sans-pro-cyrillic-ext-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2",
+    "static/media/source-sans-pro-vietnamese-400-normal.woff2": "/SberProjRJS/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2",
+    "static/media/ic-notfound.svg": "/SberProjRJS/static/media/ic-notfound.d026fd15799f3faa1b0dbc24fd5a8b96.svg",
+    "static/media/like.svg": "/SberProjRJS/static/media/like.ed9b7eeedbdc73a4c0d14fa159779a59.svg",
+    "static/media/ic-close-input.svg": "/SberProjRJS/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
+    "static/media/ic-search.svg": "/SberProjRJS/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
+    "index.html": "/SberProjRJS/index.html",
+    "main.be530bd9.css.map": "/SberProjRJS/static/css/main.be530bd9.css.map",
+    "main.e7d433e7.js.map": "/SberProjRJS/static/js/main.e7d433e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a74642f9.css",
-    "static/js/main.32193fd9.js"
+    "static/css/main.be530bd9.css",
+    "static/js/main.e7d433e7.js"
   ]
 }
