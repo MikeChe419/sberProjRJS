@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sberProjRJS/static/css/main.84424e04.css",
-    "main.js": "/sberProjRJS/static/js/main.aadcce7e.js",
-    "static/media/Fon header.jpg": "/sberProjRJS/static/media/Fon header.9cb21824adbc34bec8d2.jpg",
-    "static/media/source-sans-pro-all-400-normal.woff": "/sberProjRJS/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff",
-    "static/media/source-sans-pro-latin-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2",
-    "static/media/source-sans-pro-latin-ext-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2",
-    "static/media/source-sans-pro-cyrillic-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2",
-    "static/media/source-sans-pro-greek-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2",
-    "static/media/source-sans-pro-greek-ext-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2",
-    "static/media/source-sans-pro-cyrillic-ext-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2",
-    "static/media/source-sans-pro-vietnamese-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2",
-    "static/media/ic-notfound.svg": "/sberProjRJS/static/media/ic-notfound.d026fd15799f3faa1b0dbc24fd5a8b96.svg",
-    "static/media/like.svg": "/sberProjRJS/static/media/like.ed9b7eeedbdc73a4c0d14fa159779a59.svg",
-    "static/media/ic-close-input.svg": "/sberProjRJS/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
-    "static/media/ic-search.svg": "/sberProjRJS/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
-    "index.html": "/sberProjRJS/index.html",
-    "main.84424e04.css.map": "/sberProjRJS/static/css/main.84424e04.css.map",
-    "main.aadcce7e.js.map": "/sberProjRJS/static/js/main.aadcce7e.js.map"
+    "main.css": "/static/css/main.60a11a15.css",
+    "main.js": "/static/js/main.b85583c2.js",
+    "static/media/Fon header.jpg": "/static/media/Fon header.9cb21824adbc34bec8d2.jpg",
+    "static/media/source-sans-pro-all-400-normal.woff": "/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff",
+    "static/media/source-sans-pro-latin-400-normal.woff2": "/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2",
+    "static/media/source-sans-pro-latin-ext-400-normal.woff2": "/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2",
+    "static/media/source-sans-pro-cyrillic-400-normal.woff2": "/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2",
+    "static/media/source-sans-pro-greek-400-normal.woff2": "/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2",
+    "static/media/source-sans-pro-greek-ext-400-normal.woff2": "/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2",
+    "static/media/source-sans-pro-cyrillic-ext-400-normal.woff2": "/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2",
+    "static/media/source-sans-pro-vietnamese-400-normal.woff2": "/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2",
+    "static/media/ic-notfound.svg": "/static/media/ic-notfound.d026fd15799f3faa1b0dbc24fd5a8b96.svg",
+    "static/media/like.svg": "/static/media/like.ed9b7eeedbdc73a4c0d14fa159779a59.svg",
+    "static/media/ic-close-input.svg": "/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
+    "static/media/ic-search.svg": "/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
+    "index.html": "/index.html",
+    "main.60a11a15.css.map": "/static/css/main.60a11a15.css.map",
+    "main.b85583c2.js.map": "/static/js/main.b85583c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.84424e04.css",
-    "static/js/main.aadcce7e.js"
+    "static/css/main.60a11a15.css",
+    "static/js/main.b85583c2.js"
   ]
 }
