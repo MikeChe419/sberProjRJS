@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sberProjRJS/static/css/main.c18b9156.css",
-    "main.js": "/sberProjRJS/static/js/main.aadcce7e.js",
+    "main.js": "/sberProjRJS/static/js/main.0befdd3a.js",
     "static/media/Fon header.jpg": "/sberProjRJS/static/media/Fon header.9cb21824adbc34bec8d2.jpg",
     "static/media/source-sans-pro-all-400-normal.woff": "/sberProjRJS/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff",
     "static/media/source-sans-pro-latin-400-normal.woff2": "/sberProjRJS/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2",
@@ -17,10 +17,10 @@
     "static/media/ic-search.svg": "/sberProjRJS/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
     "index.html": "/sberProjRJS/index.html",
     "main.c18b9156.css.map": "/sberProjRJS/static/css/main.c18b9156.css.map",
-    "main.aadcce7e.js.map": "/sberProjRJS/static/js/main.aadcce7e.js.map"
+    "main.0befdd3a.js.map": "/sberProjRJS/static/js/main.0befdd3a.js.map"
   },
   "entrypoints": [
     "static/css/main.c18b9156.css",
-    "static/js/main.aadcce7e.js"
+    "static/js/main.0befdd3a.js"
   ]
 }
